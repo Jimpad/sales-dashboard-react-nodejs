@@ -1,3 +1,5 @@
+<!-- Author: Jimpad >
+
 <!-- PROJECT LOGO -->
 <div align="center">
 
