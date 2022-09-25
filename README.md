@@ -111,15 +111,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Jimpad/jimpad.svg?style=for-the-badge
-[contributors-url]: https://github.com/Jimpad/jimpad/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Jimpad/jimpad.svg?style=for-the-badge
-[forks-url]: https://github.com/Jimpad/jimpad/network/members
-[stars-shield]: https://img.shields.io/github/stars/Jimpad/jimpad.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Jimpad/jimpad/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Jimpad/dashboard-app-nodets.svg?style=for-the-badge
+[contributors-url]: https://github.com/Jimpad/dashboard-app-nodets/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Jimpad/dashboard-app-nodets.svg?style=for-the-badge
+[forks-url]: https://github.com/Jimpad/dashboard-app-nodets/network/members
+[stars-shield]: https://img.shields.io/github/stars/Jimpad/dashboard-app-nodets.svg?style=for-the-badge
+[stars-url]: https://github.com/Jimpad/dashboard-app-nodets/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Jimpad/dashboard-app-nodets.svg?style=for-the-badge
+[issues-url]: https://github.com/Jimpad/dashboard-app-nodets/issues
+[license-shield]: https://img.shields.io/github/license/Jimpad/dashboard-app-nodets.svg?style=for-the-badge
+[license-url]: https://github.com/Jimpad/dashboard-app-nodets/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Jimpad
