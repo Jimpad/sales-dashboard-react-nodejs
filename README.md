@@ -95,6 +95,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Acknowledgements
 
+
+<!-- FOOTER -->
+<div align="center">
+<a href="https://jimpad.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/Jimpad/jimpad/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/Jimpad/jimpad/issues">Report Bug</a>
+    ·
+    <a href="#readme-top">Back to Top</a>
+    
+</div>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
