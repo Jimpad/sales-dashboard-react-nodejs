@@ -3,6 +3,10 @@
 <!-- PROJECT LOGO -->
 <div align="center">
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <a>
 <img src="src\assets\media\logos\logo.svg" alt="Logo" width="80" height="80">
