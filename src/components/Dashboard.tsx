@@ -22,6 +22,8 @@ import Chart from './Chart';
 import Deposits from './Deposits';
 import Orders from './Orders';
 
+// Fix the mui icons material bug
+
 function Copyright(props: any) {
   return (
     <Typography variant="body2" color="text.secondary" align="center" {...props}>
