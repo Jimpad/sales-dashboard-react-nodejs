@@ -2,14 +2,10 @@ import * as React from 'react';
 import Link from '@mui/material/Link';
 import Typography from '@mui/material/Typography';
 import Title from './Title';
-import { Grid } from "@mui/material";
 
 function preventDefault(event) {
   event.preventDefault();
 }
-
-var updateDate = new Date();
-var updateTime = updateDate.getTime;
 
 export default function Deposits() {
   return (
