@@ -1,20 +1,10 @@
 import './App.css';
-import '../src/components/Dashboard';
+import Dashboard from './components/Dashboard'
 
-// Fix the import of Dashboard
-
-// Additionally switch this JS for TS
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">        
-        
-        <Dashboard>
-
-        </Dashboard>
-      </header>
-    </div>
+    <Dashboard />
   );
 }
 
-export default App;
+

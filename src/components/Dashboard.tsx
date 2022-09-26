@@ -22,14 +22,12 @@ import Chart from './Chart';
 import Deposits from './Deposits';
 import Orders from './Orders';
 
-// Fix the mui icons material bug
-
 function Copyright(props: any) {
   return (
     <Typography variant="body2" color="text.secondary" align="center" {...props}>
       {'Copyright © '}
-      <Link color="inherit" href="https://mui.com/">
-        Your Website
+      <Link color="inherit" href="https://jimpad.netlify.app/">
+        Jimpad
       </Link>{' '}
       {new Date().getFullYear()}
       {'.'}
