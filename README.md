@@ -12,13 +12,14 @@
     https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <div align="center">
-  <!-- begin:Icons>
-
+  <!-- begin:Icons-->
+  
   [![Contributors][contributors-shield]][contributors-url]
   [![Stargazers][stars-shield]][stars-url]
   [![MIT License][license-shield]][license-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
-  <!-- end:Icons>
+  
+  <!-- end:Icons-->
   <!-- begin:Logo -->
   <a>
     <img src="src\assets\media\logos\logo.svg" alt="Logo" width="80" height="80">
