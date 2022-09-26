@@ -1,17 +1,31 @@
-<!-- Author: Jimpad >
+<!--
+    Author: Jimpad
+    Date: 26/09/2022
+ >
 
-<!-- PROJECT LOGO -->
+<!-- begin:ProjectShields -->
+<!--
+    I'm using markdown "reference style" links for readability.
+    Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+    See the bottom of this document for the declaration of the reference variables
+    for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+    https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 <div align="center">
+  <!-- begin:Icons>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![MIT License][license-shield]][license-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  <!-- end:Icons>
+  <!-- begin:Logo -->
+  <a>
+    <img src="src\assets\media\logos\logo.svg" alt="Logo" width="80" height="80">
+  </a>
+  <!-- end:Logo >
 
-<a>
-<img src="src\assets\media\logos\logo.svg" alt="Logo" width="80" height="80">
-</a>
-
+  <!-- begin:ShortDescription -->
   <p align="center">
     Powered by   
     <br>
@@ -19,11 +33,85 @@
     <br>
     <a href="https://github.com/Jimpad/jimpad"><strong>Explore the docs »</strong></a>
   </p>
+  <!-- end:ShortDescription -->
 </div>
+<!-- end:ProjectShields -->
 
-# Dashboard App
+<!-- begin:Introductory -->
+<div align="left"> 
+  <h1>Introductory</h1>
+  <p>Dashboard App was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</p>
+</div>
+<!-- end:Introductory -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- begin:AboutTheProject -->
+<h1>About The Project</h1>
+<p>The project serves as a demo showing React integration with TypeScript, and as well as for the digital resume page.</p>
+<!-- end:AboutTheProject -->
+
+<!-- begin:BuildWith -->
+<h1>Built With</h1>
+
+<!-- begin:BuildWith -->
+
+- [![React][react.js]][react-url]
+
+<!-- end:BuildWith -->
+
+<!-- begin:Contributing -->
+<h1>Contributing</h1>
+
+<p>Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.</p>
+
+<p>If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".</p>
+<p>Don't forget to give the project a star! Thanks again!</p>
+<ul align="left">
+  <li>
+  Fork the Project
+  </li>
+  <li>
+  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+  </li>
+  <li>
+  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+  </li>
+  <li>
+  Push to the Branch (`git push origin feature/AmazingFeature`)
+  </li>
+  <li>
+  Open a Pull Request
+  </li>
+</ul>
+<!-- end:Contributing-->
+
+<!-- begin:License -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+<!-- end:License -->
+
+<!-- begin:Acknowledgments -->
+## Acknowledgments
+
+<div align="left">
+
+* [Keen Themes](https://keenthemes.com/)
+
+</div>
+<!-- end:Acknowledgments -->
+
+<!-- begin:Footer -->
+<div align="center">
+<a href="https://jimpad.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/Jimpad/jimpad/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/Jimpad/jimpad/issues">Report Bug</a>
+    ·
+    <a href="#readme-top">Back to Top</a>
+    
+</div>
+<!-- end:Footer-->
 
 ## Available Scripts
 
@@ -125,3 +213,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [license-url]: https://github.com/Jimpad/jimpad/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Jimpad
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
