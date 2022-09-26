@@ -54,7 +54,7 @@ export default function Chart() {
                 ...theme.typography.body1,
               }}
             >
-              Sales ($)
+              Return on Investment (ROI)
             </Label>
           </YAxis>
           <Line

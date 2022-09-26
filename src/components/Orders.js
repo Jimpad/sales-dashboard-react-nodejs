@@ -15,7 +15,7 @@ function createData(id, date, name, shipTo, paymentMethod, amount) {
 const rows = [
   createData(
     0,
-    '16 Mar, 2019',
+    '15 Jan, 2022',
     'Elvis Presley',
     'Tupelo, MS',
     'VISA ⠀•••• 3719',
@@ -23,16 +23,23 @@ const rows = [
   ),
   createData(
     1,
-    '16 Mar, 2019',
+    '1 Mar, 2022',
     'Paul McCartney',
     'London, UK',
     'VISA ⠀•••• 2574',
     866.99,
   ),
-  createData(2, '16 Mar, 2019', 'Tom Scholz', 'Boston, MA', 'MC ⠀•••• 1253', 100.81),
+  createData(
+    2,
+    '15 Apr, 2022',
+    'Tom Scholz',
+    'Boston, MA',
+    'MC ⠀•••• 1253',
+    100.81,
+  ),
   createData(
     3,
-    '16 Mar, 2019',
+    '20 May, 2022',
     'Michael Jackson',
     'Gary, IN',
     'AMEX ⠀•••• 2000',
@@ -40,7 +47,7 @@ const rows = [
   ),
   createData(
     4,
-    '15 Mar, 2019',
+    '10 Aug, 2022',
     'Bruce Springsteen',
     'Long Branch, NJ',
     'VISA ⠀•••• 5919',
