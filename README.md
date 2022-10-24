@@ -30,7 +30,7 @@
   <p align="center">
     Powered by   
     <br>
-    NodeTS & React
+    React & NodeJS
     <br>
     <a href="https://github.com/Jimpad/dashboard-ui-react-nodejs"><strong>Explore the docs »</strong></a>
   </p>
