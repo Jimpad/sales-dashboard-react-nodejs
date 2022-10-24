@@ -32,7 +32,7 @@
     <br>
     NodeTS & React
     <br>
-    <a href="https://github.com/Jimpad/jimpad"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Jimpad/dashboard-ui-react-nodejs"><strong>Explore the docs »</strong></a>
   </p>
   <!-- end:ShortDescription -->
 </div>
@@ -168,11 +168,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- begin:Footer -->
 <div align="center">
-<a href="https://jimpad.netlify.app/">View Demo</a>
+    <a href="https://github.com/Jimpad/dashboard-ui-react-nodejs/issues">Request Feature</a>
     ·
-    <a href="https://github.com/Jimpad/jimpad/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/Jimpad/jimpad/issues">Report Bug</a>
+    <a href="https://github.com/Jimpad/dashboard-ui-react-nodejs/issues">Report Bug</a>
     ·
     <a href="#readme-top">Back to Top</a>
     
@@ -182,16 +180,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Jimpad/dashboard-app-react.svg?style=for-the-badge
-[contributors-url]: https://github.com/Jimpad/dashboard-app-react/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Jimpad/dashboard-app-react.svg?style=for-the-badge
-[forks-url]: https://github.com/Jimpad/dashboard-app-react/network/members
-[stars-shield]: https://img.shields.io/github/stars/Jimpad/dashboard-app-react.svg?style=for-the-badge
-[stars-url]: https://github.com/Jimpad/dashboard-app-react/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Jimpad/dashboard-app-react.svg?style=for-the-badge
-[issues-url]: https://github.com/Jimpad/dashboard-app-react/issues
-[license-shield]: https://img.shields.io/github/license/Jimpad/dashboard-app-react.svg?style=for-the-badge
-[license-url]: https://github.com/Jimpad/dashboard-app-react/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Jimpad/dashboard-ui-react-nodejs.svg?style=for-the-badge
+[contributors-url]: https://github.com/Jimpad/dashboard-ui-react-nodejs/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Jimpad/dashboard-ui-react-nodejs.svg?style=for-the-badge
+[forks-url]: https://github.com/Jimpad/dashboard-ui-react-nodejs/network/members
+[stars-shield]: https://img.shields.io/github/stars/Jimpad/dashboard-ui-react-nodejs.svg?style=for-the-badge
+[stars-url]: https://github.com/Jimpad/dashboard-ui-react-nodejs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Jimpad/dashboard-ui-react-nodejs.svg?style=for-the-badge
+[issues-url]: https://github.com/Jimpad/dashboard-ui-react-nodejs/issues
+[license-shield]: https://img.shields.io/github/license/Jimpad/dashboard-ui-react-nodejs.svg?style=for-the-badge
+[license-url]: https://github.com/Jimpad/dashboard-ui-react-nodejs/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Jimpad
 
